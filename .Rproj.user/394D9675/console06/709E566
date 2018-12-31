@@ -157,4 +157,61 @@ $[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -
 [0K[?25h[?25l
 [0;32molipes@WLL-1TCWN72 [0;35m [0;33m~/Desktop/Rchangesims[0;36m ((31f6b71...))[0m[0K
 $[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "add OP folders"[0K[?25h[?25l$ git add --all[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32molipes@WLL-1TCWN72 [0;35m [0;33m~/Desktop/Rchangesims[0;36m ((31f6b71...))[0m[0K
+$[0K[3G[?25h[?25l$ git add --all[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "add OP folders"[0K[?25h[?25l
+[0K[?25h[detached HEAD 8c485bd] add OP folders[0K[?25l
+ Committer: Pescott <olipes@ceh.ac.uk>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 1 file changed, 41 insertions(+)[0K
+[0K[?25h[?25l
+[0;32molipes@WLL-1TCWN72 [0;35m [0;33m~/Desktop/Rchangesims[0;36m ((8c485bd...))[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add OP folders"[0K[3G[?25h[33G[?25l$ git add --all[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+Branch 'master' set up to track remote branch 'master' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32molipes@WLL-1TCWN72 [0;35m [0;33m~/Desktop/Rchangesims[0;36m ((8c485bd...))[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "add OP folders"[0K[?25h[?25l$ git add --all[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "add OP folders"[0K[?25h[?25l$ git add --all[0K[?25h[?25l$ git add -all[0K[?25h[?25l$ git checkout -f head[0K[?25h[?25l$ git fetch origin[0K[?25h[?25l$ git remote add origin https://github.com/sacrevert/RangeChangeSims[0K[?25h[?25l$ git fetch origin[0K[?25h[?25l$ git status[0K[?25h[?25l$ git reset origin/master[0K[?25h[?25l$ git fetch origin[0K[?25h[?25l$ git remote add origin https://github.com/sacrevert/RangeChangeSims[0K[?25h[?25l$ git init[0K[69G[?25h[11G[?25l$ git remote add origin https://github.com/sacrevert/RangeChangeSims[0K[?25h[?25l$ exit[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "fixed error stopping model working for real data"[0K[?25h[?25l$ git add --all[0K[?25h[?25l$ git all --add[0K[?25h[?25l$ exit[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "improve comments"[0K[?25h[?25l$ git add --all[0K[?25h[?25l$ exit[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -am "Remove ignored files2"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git rm -r --cached .[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -am "Remove ignored files"[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git rm -r --cached .[0K[?25h[?25l
+[0K[?25hrm '.Rproj.user/394D9675/console06/709E566'[0K[?25l
+rm '.Rproj.user/394D9675/console06/INDEX001'[0K
+rm '.Rproj.user/394D9675/sources/s-39E4CE1F/lock_file'[0K
+rm '.Rproj.user/shared/notebooks/patch-chunk-names'[0K
+rm 'Explore_results.R'[0K
+rm 'Occupancy/OccMod1.bugs'[0K
+rm 'Occupancy/Occ_Arco.bugs'[0K
+rm 'Occupancy/Occ_Full.bugs'[0K
+rm 'Occupancy/Occ_LL.bugs'[0K
+rm 'Occupancy/Occ_LL_Site.bugs'[0K
+rm 'Occupancy/Occ_Simple.bugs'[0K
+rm 'Occupancy/Occ_Site.bugs'[0K
+rm 'Occupancy/Occupancy_model.r'[0K
+rm 'Occupancy/Simple Occmod.bugs'[0K
+rm 'README.md'[0K
+rm 'Rchangesims.Rproj'[0K
+rm 'Run_full_analysis.R'[0K
+rm 'Sim_Wrapper.r'[0K
+rm 'Sim_functions.r'[0K
+rm 'extract_collate_stats.R'[0K
+rm 'jagsTest.r'[0K
+rm 'reshape2_1.2.2.tar.gz'[0K
+rm 'run_fresc_param_sims.r'[0K
+rm 'simWts.txt'[0K
+rm 'sims_to_frescalo.r'[0K
+rm 'sparta_0.1.20.zip'[0K
+rm 'vignette.Rnw'[0K
+rm 'vignette.pdf'[0K
+[0K[?25h[?25l
+[0;32molipes@WLL-1TCWN72 [0;35m [0;33m~/Desktop/Rchangesims[0;36m ((8c485bd...))[0m[0K
+$[0K[3G[?25h[?25l$ git rm -r --cached .[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "add OP folders"[0K[?25h[?25l$ git add --all[0K[?25h[?25l
 [0K[?25h
